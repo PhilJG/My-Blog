@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: /My-Blog
+exclude: ['README.md']
+
